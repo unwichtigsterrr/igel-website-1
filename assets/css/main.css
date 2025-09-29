@@ -3340,8 +3340,3 @@ input, select, textarea {
 
 	}
 
-.inner {
-    background-color: rgba(0, 128, 255, 0.2); /* halbtransparentes Blau */
-    padding: 2em; /* optional, falls der Abstand angepasst werden soll */
-    border-radius: 10px; /* optional, abgerundete Ecken */
-}
